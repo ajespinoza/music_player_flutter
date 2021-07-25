@@ -1,0 +1,45 @@
+
+
+
+List<String> getLyrics() {
+
+  return ['En el faro de tu amor',
+'En el regazo de tu piel',
+'Me dejo llevar al sol',
+'Es que no hay nadie como tú',
+'Que me haga sentir sentir así',
+'En un arrullo de estrellas, ah-ah-ah',
+'Te lo digo desde el alma',
+'Y con el corazón abierto',
+'En un páramo de luz',
+'Despojados del dolor',
+'Nos volvemos a encontrar',
+'Al final del infinito',
+'Entre ríos púrpura',
+'A la fuente regresar, ah-ah-ah',
+'En el faro de tu amor',
+'En el regazo de tu piel',
+'Me dejo llevar al sol',
+'Al final del infinito',
+'Entre ríos púrpura',
+'Nos volvemos a encontrar, ah-ah-ah',
+'Eres mi amor eterno',
+'Mi ángel de la guarda, ah-ah-ah',
+'Te lo digo desde al alma',
+'Y con el corazón abierto, ah-ah-ah',
+'Entre tus alas dormí',
+'Y en tu mirada compasiva, crecí',
+'Siempre confiaste en todo lo que soñé',
+'Me cuidaste y me guiaste hasta aquí, ah-ah-ah',
+'Te lo digo desde el alma',
+'Con el corazón abierto, ah-ah-ah',
+'Eres mi amor eterno',
+'Mi ángel de la guarda, ah-ah-ah',
+'Te lo digo desde el alma',
+'Con el corazón abierto, ah-ah-ah',
+'Eres mi amor eterno',
+'Mi ángel de la guarda, ah-ah-ah',
+'Te lo digo desde alma',
+'María llena eres de gracia, ah-ah-ah'];
+
+}
